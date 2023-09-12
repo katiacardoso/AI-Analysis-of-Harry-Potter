@@ -924,8 +924,8 @@ Snape  ;What? Oh!
 Ron  ;Go!
 Hagrid  ;Go go go!
 Hagrid;Looks like he's gonna be sick.
-Lee  Jordan;He's got the Snitch! 
-Lee  Jordan;Harry Potter receives 150 points for catching the Snitch!
+Lee Jordan;He's got the Snitch! 
+Lee Jordan;Harry Potter receives 150 points for catching the Snitch!
 Madam Hooch ;Gryffindor win!
 All  ;YAY!
 Draco  ;No!
@@ -1075,10 +1075,10 @@ Hermione;We've got final exams coming up soon.
 Ron;I'm ready. Ask me any question.
 Hermione;Alright, what are the 3 most crucial ingredients in a Forgetfulness Potion?
 Ron;I forgot.
-Hermoine;And what, may I ask, do you plan to do if this comes up in the final exam?
+Hermione;And what, may I ask, do you plan to do if this comes up in the final exam?
 Ron;Copy off you.
-Hermoine;No, you won't.
-Hermoine;Besides, according to Professor McGonagall, we're to be given special quills bewitched with an Anti Cheating Spell.
+Hermione;No, you won't.
+Hermione;Besides, according to Professor McGonagall, we're to be given special quills bewitched with an Anti Cheating Spell.
 Ron;That's insulting! 
 Ron;It's as if they don't trust us! Dumbledore again!
 Ron;Leg-Locker Curse?
